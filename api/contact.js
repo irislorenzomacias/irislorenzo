@@ -51,10 +51,10 @@ export default async function handler(req, res) {
 
   try {
     await getPool().query(
-      
+      `
       INSERT INTO contact_messages (name, email, message)
-      VALUES (, , )
-      ,
+      VALUES ($1, $2, $3)
+      `,
       [trimmedName, trimmedEmail, trimmedMessage],
     )
 

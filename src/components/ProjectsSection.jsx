@@ -9,8 +9,7 @@ const projectsText = {
     cards: [
       {
         title: 'cybersuit-grc',
-        summary:
-          'cybersuit-grc is a modular platform designed to centralize and automate Cybersecurity and Regulatory Compliance (GRC). It streamlines internal consulting work by reducing manual effort, gives end clients a live view of their security status, and is built to evolve into a white-label SaaS product for other consultancies and independent auditors.',
+        summary: 'cybersuit-grc is a modular platform designed to centralize and automate Cybersecurity and Regulatory Compliance (GRC).',
       },
     ],
   },
@@ -20,8 +19,7 @@ const projectsText = {
     cards: [
       {
         title: 'cybersuit-grc',
-        summary:
-          'cybersuit-grc es una plataforma modular pensada para centralizar y automatizar la gestion de Ciberseguridad y Cumplimiento Normativo (GRC). La aplicacion reduce el trabajo manual interno de consultoria, permite a los clientes finales consultar su estado de seguridad en una plataforma viva y esta diseñada para evolucionar como producto SaaS white-label para otras consultoras y auditores independientes.',
+        summary: 'cybersuit-grc es una plataforma modular diseñada para centralizar y automatizar Ciberseguridad y Cumplimiento Normativo (GRC).',
       },
     ],
   },
@@ -31,8 +29,7 @@ const projectsText = {
     cards: [
       {
         title: 'cybersuit-grc',
-        summary:
-          'cybersuit-grc ist eine modulare Plattform zur Zentralisierung und Automatisierung von Cybersecurity- und Compliance-Management (GRC). Die Anwendung reduziert interne manuelle Beratungsaufgaben, bietet Endkunden eine laufende Sicht auf ihren Sicherheitsstatus und ist als White-Label-SaaS fuer weitere Beratungen und unabhängige Auditoren ausgelegt.',
+        summary: 'cybersuit-grc ist eine modulare Plattform zur Zentralisierung und Automatisierung von Cybersecurity und Regulatory Compliance (GRC).',
       },
     ],
   },
