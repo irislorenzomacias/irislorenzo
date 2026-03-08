@@ -1,4 +1,4 @@
-﻿'use client'
+'use client'
 
 import { useState } from 'react'
 import { motion } from 'framer-motion'
@@ -82,7 +82,7 @@ export default function ContactSection({ copy }) {
           <div className="grid gap-3 md:grid-cols-3 lg:grid-cols-1">
             <a
               href="mailto:iris_lorenzo_macias@hotmail.com"
-              className="rounded-2xl border border-slate-200/70 bg-white/80 px-5 py-4 text-sm font-medium text-slate-800 transition hover:bg-slate-100 dark:border-slate-600 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800"
+              className="inline-flex min-h-[52px] items-center justify-center rounded-2xl border border-slate-200/70 bg-white/80 px-5 py-4 text-center text-sm font-medium text-slate-800 transition hover:bg-slate-100 dark:border-slate-600 dark:bg-slate-900 dark:text-slate-100 dark:hover:bg-slate-800"
             >
               {copy.emailLabel}: iris_lorenzo_macias@hotmail.com
             </a>
